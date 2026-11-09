@@ -7,7 +7,7 @@ I build tools that make recurring operational work easier to inspect: Python app
 ## Selected work
 
 - **[Pushka Job](https://github.com/dmitriibilecki/pushka-job)** — a personal workspace for collecting vacancies, keeping application records and reducing repetitive job-search work. This repository shares the review engine and an offline example.
-- **[Automotive Market Intelligence](https://github.com/dmitriibilecki/automotive-market-intelligence)** — vehicle-listing aggregation, SQLite storage, peer comparisons and reporting. Public edition uses synthetic demo data.
+- **[Automotive Market Intelligence](https://github.com/dmitriibilecki/automotive-market-intelligence)** — a personal project started while choosing a family car. Collects vehicle listings in SQLite for manual review; deeper analysis and purchase-decision support are planned. Includes a synthetic demo.
 - **[Fintech Operations Lab](https://github.com/dmitriibilecki/fintech-operations-lab)** — a synthetic document-review queue experiment exploring capacity and turnaround under explicit assumptions.
 
 ## Toolkit
